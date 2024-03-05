@@ -2,7 +2,7 @@
   💻<br>Portfolio - Pedro Tortoriello
 </h1>
 
-![Final project result](assets/image/preview.png)
+![Final project result](assets/image/project.png)
 
 <h4 align="center"><a href="https://www.pedrotortoriello.com.br/">Click to visit the project</a></h4>
 
